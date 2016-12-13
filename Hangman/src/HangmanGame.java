@@ -24,8 +24,8 @@ public class HangmanGame
         //pick a random word
         //WordList list = new WordList(); //the list of words
         //words = list.getWords(); //put the list in the words ArrayList
-    	words.add("tank");
-    	words.add("robot");
+    	words.add("squirrel");
+    	words.add("goat");
         words.add("talon");
     	words.add("roborio");
     }
